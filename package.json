@@ -1,7 +1,0 @@
-"homepage": "https://gurkan-master.github.io/hello-react",
-"scripts": {
-    "predeploy": "npm run build",
-	"deploy": "gh-pages -b master -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build"
-	},
